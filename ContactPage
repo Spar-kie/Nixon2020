@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Contact</title>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+        <h1 align="center" style="border: 5px solid white;"><u>CONTACT:</u></h1>
+    </head>
+    
+    <body>
+        <p>Camapign Manager E-Mail: [REDACTED]</p>
+        <p>Nixon's E-Mail: Nixon doesn't have an E-Mail</p>
+        <p align="center"><a href="index.html">Return To Nixon 2020 Home Page</a></p>
+    </body>
+</html>
