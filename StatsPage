@@ -1,0 +1,91 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+        <title>Campaign Promises</title>
+        <h1>NIXON 2020 CAMPAING INFORMATION!</h1>
+    </head>
+    
+    <body>
+        <!--This code is used to make both numbered and unumbered lists-->
+        <h2>PRIORITIES OF NIXON 2020</h2>
+        <ul align="center"><font color=#e0e0e0>
+        <li>Get to the moon again</li>
+        <li>Start up the Vietnam war again</li>
+        <li>Say no to impeachment</li>
+        <li>Do a funky dance on the Whitehouse lawn</li>
+        <li>Download more ram onto every government computer</li>
+        <li>Replace the outside world with Minecraft</li>
+        <li>Update America's graphics</li>
+        </ul></font>
+        <h2>CAMPAIGN SONGS RANKED</h2>
+        <ol align="center"><font color=#e0e0e0>
+            <li>The Simple Minds - Don't You Forget About Me</li>
+            <li>Tears For Fears - Everybody Wants To Rule The World</li>
+            <li>Billy Joel - We Didn't Start The Fire</li>
+            <l1>Rick Astley - Never Gonna Give You Up</l1>
+        </font></ol>
+        <h2>HOW NIXON STACKS UP AGAINST OTHER CANDIDATES</h2>
+        <!-- All this text code is used to make a table -->
+        <table style="width 100%" align="center">
+            <tr>
+                <th>Candidate</th>
+                <th>Votes</th>
+                <th>Fun Rating</th>
+                <th>Money</th>
+                <th>Power Level</th>
+                <th>Final Rating</th>
+            </tr>
+            <tr>
+                <th>Nixon</th>
+                <th>Like a lot bro</th>
+                <th>500 Funs</th>
+                <th>$50</th>
+                <th>3000</th>
+                <th>Unbiased 10/10</th>
+            </tr>
+            <tr>
+                <th>Trump</th>
+                <th>idk not a lot</th>
+                <th>Indeterminant</th>
+                <th>A small loan</th>
+                <th>???</th>
+                <th>5/10</th>
+            </tr>
+            <tr>
+                <th>Biden</th>
+                <th>~5</th>
+                <th>2 Funs</th>
+                <th>idk bro how much you got?</th>
+                <th>7</th>
+                <th>6/10</th>
+            </tr>
+            <tr>
+                <th>JEB</th>
+                <th>>999,999</th>
+                <th>Off The Charts</th>
+                <th>Enough</th>
+                <th>Wouldn't you like to know</th>
+                <th>11/10</th>
+            </tr>
+            <tr>
+                <th>Obama</th>
+                <th>69.5 Million</th>
+                <th>36 Funs</th>
+                <th>19.39 Trillion USD</th>
+                <th>2012</th>
+                <th>8/10</th>
+            </tr>
+            <tr>
+                <th>Yang</th>
+                <th>A couple</th>
+                <th>360 Funs</th>
+                <th>$1000</th>
+                <th>1000</th>
+                <th>Freedom Dividend/10</th>
+            </tr>
+        </table>
+        <p><img src="https://images-na.ssl-images-amazon.com/images/I/51t7J42faeL._AC_.jpg" alt=Nixon campaign poster reading Nixon is The One align="middle"></p>
+        <p align="center"><a href="index.html">Return To Nixon 2020 Home Page</a></p>
+    </body>
+    
+</html>
