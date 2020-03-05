@@ -1,0 +1,27 @@
+<html>
+    <head align="center">
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+        <title>NIXON 2020</title>
+        <h1><font color=#ff0000>RICHARD</font> M. <font color=#000dff>NIXON</font> <font color=#ff0000>2</font>0<font color=#000dff>2</font>0</h1>
+        <h2><i>"NOT A CROOK"</i></h2>
+        <p><img src="https://www.stickpng.com/assets/images/585124aa6a5ae41a83ddeec7.png" alt="a transparent image of Nixon's head" align="middle"></p>
+    </head>
+    
+    <body>
+        <h2>THE MISSION</h1>
+        <p>Hi, I'm Spar-kie, campaign manager of Nixon 2020, and soon to be vice president under the Nixon administration. My goal is to get Richard Nixon re-elected for President of The United States.</p>
+        <h2>WASN'T HE LIKE, IMPEACHED?</h2>
+        <p>He quit before he could be impeached, and was then pardoned by Gerald Ford, so Nixon's hands are completley clean!</p>
+        <h2>CAN'T A PRESIDENT ONLY BE IN OFFICE TWICE?</h2>
+        <p>I mean yea, but I'm sure if we ask really nicely the supreme court would make an exception.</p>
+        <h2>NIXON WAS A REPUBLICAN, AND THE CURRENT INCUMBENT PRESIDENT IS ONE, WOULDN'T THIS SPLIT THE PARTY?</h2>
+        <p>Shut up with your logic, Nixon died in the 90s and the thing you're worried about is 'splitting the party'? That is hardly the biggest flaw in this plan.</p>
+        <h2>AREN'T YOU A BIT YOUNG TO BE A VICE-PRESIDENT?</h2>
+        <p>Yes, yes I am.</p>
+        <!-- These links head to different pages on the website -->
+        <p><a href="custom.html">INFORMATION!</a></p>
+        <p><a href="donation.html">DONATE!</a></p>
+        <p><a href="contact.html">CONTACT US!</a></p>
+        <p><a href="Sources.html">IMAGE SOURCES!</a></p>
+    </body>
+</html>
