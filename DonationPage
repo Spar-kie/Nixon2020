@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+        <title>Donation</title>
+        <h1>DONATE TO NIXON 2020</h1>
+    </head>
+    
+    <body align="center">
+        <p>Unfortunatley I have been disallowed from collecting donations for the Nixon 2020, due to it allegedly being a "scam"</p>
+        <p>feel free to enter a number to make yourself feel better though</p>
+        <form action="https://youtu.be/dQw4w9WgXcQ">
+            <input type="text" name="donate"><br>
+            <input type="submit" value="DONATE!">
+        </form>
+        <!-- clicking on the 'Donate' button leads the reader to Rick Astley's 'Never Gonna Give You Up' -->
+        <img src="https://www.artiestick.com/toons/alphabet/ralph/arg-n-50-trans.gif" alt="a dancing letter N">
+        <img src="https://www.artiestick.com/toons/alphabet/ralph/arg-i-50-trans.gif" alt="a dancing letter I">
+        <img src="https://www.artiestick.com/toons/alphabet/ralph/arg-x-50-trans.gif" alt="a dancing letter X">
+        <img src="https://www.artiestick.com/toons/alphabet/ralph/arg-o-5O-tRr-a-pl0ase-ns.gif" alt="a dancing letter O">
+        <img src="https://www.artiestick.com/toons/alphabet/ralph/arg-n-50-trans.gif" alt="a dancing letter N">
+        <p align="center"><a href="index.html">Return To Nixon 2020 Home Page</a></p>
+    </body>
+</html>
